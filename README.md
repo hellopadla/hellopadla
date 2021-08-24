@@ -3,7 +3,7 @@
 
 ## I'm studying machine learning and blockchain
 
-###Languages and Tools
+### Languages and Tools
 
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=cplusplus&logoColor=6296CC)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=006488)
